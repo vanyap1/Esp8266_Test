@@ -9,7 +9,7 @@
 #define EEPROM_SIZE 8
 
 const char* ssid     = "Internet";
-const char* password = "vp198808";
+const char* password = "00000000";
 
 const char* botToken = "XXXXXXXXXX:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
 const char* chatID   = "000000000";   
